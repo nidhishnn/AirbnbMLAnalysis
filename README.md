@@ -15,6 +15,7 @@ Dataset Source: https://www.kaggle.com/datasets/eren2222/airbnb-properties-image
 
 
 <img width="809" alt="OPTDirectMethodFinalTree" src="https://github.com/user-attachments/assets/00abe7f0-a66e-4f67-92ba-84a27a627890">
+
 Optimal Policy Tree with Direct Method
 
 The Optimal Policy Tree highlights that the number of people the Airbnb listing accommodates, distance to Times Square, and number of customer reviews drive which price to prescribe in order to
@@ -26,6 +27,7 @@ listing to be pricier on average.
 The average estimated rating outcome score under our prescribed treatments is about 1.326, whereas the average rating score under the treatment prices observed in the data is roughly 1.096. Thus, our tree provides a 20.94% improvement in the rating bucket score, raising both customer satisfaction and host revenue.
 
 <img width="533" alt="DoublyRobustFinalTree" src="https://github.com/user-attachments/assets/41add9ad-bb22-416a-ad33-124f7f0bf5b1">
+
 Optimal Policy Tree with Doubly Robust Method
 
 Similar to our first tree, this one also suggests that number of reviews and accommodates are key drivers of the optimal pricing strategy to yield improved ratings. We also see that the room type being listed as a private room rather than a shared room is an important determinant of the prescribed price. Furthermore, we see this tree does not prescribe the middle price range of 80 to 150 dollars, and tells hosts to keep the price cheap or on the more expensive side.
