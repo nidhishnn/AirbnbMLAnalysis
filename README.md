@@ -12,6 +12,8 @@ of reviews, review scores rating, thumbnail url, zipcode, bedrooms, and beds.
 Dataset Source: https://www.kaggle.com/datasets/eren2222/airbnb-properties-image/data?select=Airbnb_Data_Images.csv
 
 **Key Results**: 
+
+
 <img width="809" alt="OPTDirectMethodFinalTree" src="https://github.com/user-attachments/assets/00abe7f0-a66e-4f67-92ba-84a27a627890">
 
 The Optimal Policy Tree highlights that the number of people the Airbnb listing accommodates, distance to Times Square, and number of customer reviews drive which price to prescribe in order to
