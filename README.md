@@ -2,6 +2,7 @@
 Prescribing Optimal Prices for Airbnb Listings in New York City
 
 Nidhish Nerur & Maya Nesen 
+
 Machine Learning Under a Modern Optimization Lens Final Project
 
 **Introduction**: Airbnb hosts struggle with pricing their listings to maximize their booking rate and customer satisfaction. With multi-modal data, our project provides a framework to address this challenge by providing hosts with actionable guidance. In particular, we use classification machine learning algorithms to predict the rating score of a given listing. The primary issue is we only know the observed rating score for the specific price assigned to the listing by the host. Consequently, we perform counterfactual estimation to assess the potential rating outcome if the listing had been priced in a different range. We utilize two counterfactual methods, namely, Direct Method and Doubly Robust to estimate a rewards matrix representing the rating scores across various price buckets. Finally, we build interpretable Optimal Policy Trees which display relevant features driving the optimal price prescription that will maximize rating outcomes.
