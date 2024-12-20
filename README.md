@@ -1,5 +1,5 @@
-# AirbnbMLAnalysis
-Prescribing Optimal Prices for Airbnb Listings in New York City
+# Airbnb Machine Learning Analysis
+Prescribing Optimal Prices for Airbnb Listings in New York City.
 
 Nidhish Nerur & Maya Nesen 
 
